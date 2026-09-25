@@ -1,0 +1,31 @@
+{
+  "dealership": "Murray Chevrolet Cadillac Buick Gmc Abbotsford Ltd",
+  "generated_at": "2026-09-25T15:08:32",
+  "vehicle_count": 2,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "Certified Used2022FordSuper Duty F-350 SRW4WD4x4 - Crew Cab SRW Platinum - 160&quot; WB",
+      "vin": "1FT8W3BT1NEF68083",
+      "stock": "P9992A",
+      "color": "Oxford White / Stone Grey",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-cadillac-buick-gmc-abbotsford-ltd-mirror/used/d159d0255a65.html",
+      "source_url": "https://www.murraygmabbotsford.com/inventory/Used-2022-Ford-Super_Duty_F--350_SRW-4x4_--_Crew_Cab_SRW_Platinum_--_160%26quot%3B_WB-1FT8W3BT1NEF68083/",
+      "dealer_url": "https://www.murraygmabbotsford.com/inventory/Used-2022-Ford-Super_Duty_F--350_SRW-4x4_--_Crew_Cab_SRW_Platinum_--_160%26quot%3B_WB-1FT8W3BT1NEF68083/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T14:58:08",
+      "condition": "used"
+    },
+    {
+      "name": "Certified Used2024GMCSierra 3500HD4WDSLE",
+      "vin": "1GT49TE71RF159456",
+      "stock": "T0825A",
+      "color": "Gray",
+      "url": "https://willyml1979-dotcom.github.io/murray-chevrolet-cadillac-buick-gmc-abbotsford-ltd-mirror/used/a5da4c6ad4ec.html",
+      "source_url": "https://www.murraygmabbotsford.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE71RF159456/",
+      "dealer_url": "https://www.murraygmabbotsford.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE71RF159456/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T14:58:24",
+      "condition": "used"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Chevrolet Cadillac Buick Gmc Abbotsford Ltd",
-  "generated_at": "2026-09-26T15:02:49",
+  "generated_at": "2026-10-08T14:41:38",
   "vehicle_count": 2,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -14,7 +14,9 @@
       "source_url": "https://www.murraygmabbotsford.com/inventory/Used-2022-Ford-Super_Duty_F--350_SRW-4x4_--_Crew_Cab_SRW_Platinum_--_160%26quot%3B_WB-1FT8W3BT1NEF68083/",
       "dealer_url": "https://www.murraygmabbotsford.com/inventory/Used-2022-Ford-Super_Duty_F--350_SRW-4x4_--_Crew_Cab_SRW_Platinum_--_160%26quot%3B_WB-1FT8W3BT1NEF68083/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:02:29",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 3500HD4WDSLE",
@@ -25,7 +27,9 @@
       "source_url": "https://www.murraygmabbotsford.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE71RF159456/",
       "dealer_url": "https://www.murraygmabbotsford.com/inventory/Used-2024-GMC-Sierra_3500HD-SLE-1GT49TE71RF159456/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T15:02:45",
-      "condition": "used"
+      "condition": "used",
+      "city": "Abbotsford",
+      "province": "BC"
     }
   ]
 }
